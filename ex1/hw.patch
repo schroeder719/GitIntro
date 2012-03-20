@@ -1,0 +1,9 @@
+--- original_hw.c	2012-03-10 20:01:22.000000000 -0500
++++ new_hw.c	2012-03-10 20:01:35.000000000 -0500
+@@ -2,5 +2,5 @@
+ 
+ main()
+ {
+-	printf("Hello World!\n");
++	printf("Hello ECE Students!!\n");
+ }
